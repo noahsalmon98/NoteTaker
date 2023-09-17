@@ -40,3 +40,4 @@ I had help from stack overflow and chatgpt
 
 ## URL
 https://noahsalmon98.github.io/NoteTaker/
+https://github.com/noahsalmon98/NoteTaker
